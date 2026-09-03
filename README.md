@@ -47,13 +47,16 @@ The application would clearly explain that its information is for educational an
 
 VI. Design and Wireframes
 The application would use a simple design so users could easily understand and navigate the system.
+
 A. Login Screen
 The first screen would allow the user to:
-•	Sign in
-•	Create an account
-•	Reset a forgotten password
+1. Sign in
+2. Create an account
+3. Reset a forgotten password
+   
 B. Home Dashboard
 The main dashboard would display:
+
 •	Daily vitamin intake
 •	Nutritional progress
 •	Vitamins that may be below the user's selected goals
